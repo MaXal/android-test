@@ -7,4 +7,3 @@ bazel-*
 # Intellij IDEA
 .idea
 .gradle
-.ijwb
