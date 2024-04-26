@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="libtest_protos-lite-hjar_6610c7f2">
+    <CLASSES>
+      <root url="jar:///private/var/tmp/_bazel_maxim.kolmakov/8243c6232729794ca09cd722032e0657/execroot/android_test_support/bazel-out/darwin_arm64-fastbuild/bin/espresso/remote/javatests/androidx/test/espresso/proto/libtest_protos-lite-hjar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

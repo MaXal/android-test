@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.system.id="Blaze" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../../espresso/core/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../espresso/remote/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../.." />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-android-test" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-genfiles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-out" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../bazel-testlogs" />
+      <excludePattern pattern="bazel-bin" />
+      <excludePattern pattern="bazel-genfiles" />
+      <excludePattern pattern="bazel-out" />
+      <excludePattern pattern="bazel-testlogs" />
+      <excludePattern pattern="bazel-android-test" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="header_annotation-jvm-1.7.0-beta01_6cd57368" level="project" />
+    <orderEntry type="library" name="libweb_actions_proto-lite-hjar_461ee361" level="project" />
+    <orderEntry type="library" name="libweb_sugar_proto-lite-hjar_34d516ab" level="project" />
+    <orderEntry type="library" name="libweb_assertions_proto-lite-hjar_47061df7" level="project" />
+    <orderEntry type="library" name="libhamcrest_matchersv1_3_proto-lite-hjar_f1746062" level="project" />
+    <orderEntry type="library" name="libweb_driver_atoms_proto-lite-hjar_d1939b71" level="project" />
+    <orderEntry type="library" name="libremote_web_model_atoms_proto-lite-hjar_347dc49e" level="project" />
+    <orderEntry type="library" name="libview_matchers_proto-lite-hjar_f1746062" level="project" />
+    <orderEntry type="library" name="libview_actions_proto-lite-hjar_eb2a0106" level="project" />
+    <orderEntry type="library" name="libroot_matchers_proto-lite-hjar_f1746062" level="project" />
+    <orderEntry type="library" name="libview_assertions_proto-lite-hjar_8f94e232" level="project" />
+    <orderEntry type="library" name="libremote_web_matchers_proto-lite-hjar_f51bc967" level="project" />
+    <orderEntry type="library" name="libui_interaction_proto-lite-hjar_2c80493f" level="project" />
+    <orderEntry type="library" name="libtest_protos-lite-hjar_6610c7f2" level="project" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+  </component>
+</module>

@@ -5,6 +5,4 @@ bazel-*
 .aswb
 
 # Intellij IDEA
-.idea
 .gradle
-.ijwb
